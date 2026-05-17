@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u xx -p xx -l xx
+        run: python main.py -u 13622355564 -p Aa13602589123 -l 144207062
